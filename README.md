@@ -14,7 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Nice to meet you! I'm just a student.If you find any mistake in my project,welcome to send e-mail to me.
-
-
-I mainly use 
+Nice to meet you! I'm just a student.If you find any mistake in my project,welcome to send e-mail to me.😜
