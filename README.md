@@ -10,4 +10,4 @@ Nice to meet you! I'm just a student.If you find any mistake in my project,welco
 
 My e-mail: timeomfly@gmail.com
 
-![](https://raw.githubusercontent.com/TimeonFly/TimeonFly/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/TimeonFly/TimeonFly/main/contribution-snake/github-contribution-grid-snake.svg)
