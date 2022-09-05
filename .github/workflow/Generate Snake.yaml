@@ -4,7 +4,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 21 * * *"
+    - cron: "0 25 * * *"
   workflow_dispatch:
 
 jobs:
@@ -29,4 +29,4 @@ jobs:
           branch: main
 
 
-          message: ':rocket: Update
+          message: ':rocket: Update'
