@@ -26,7 +26,7 @@
 
 ## 项目
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TimeonFly&repo=NJMU-Report)](https://github.com/TimeonFly/NJMU-Report)
 
 ##
 <!-- profile-3d-contrib -->
